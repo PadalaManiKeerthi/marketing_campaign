@@ -1,2 +1,4 @@
-# marketing_campaign
-Customer Segmentation Project using RFM Analysis | Marketing Campaign Dashboard built with Streamlit &amp; Plotly | 7 Segments Identified for Targeted Marketing
+## 🚀 Live Demo
+**Link:** https://marketingcampaign-zfgqmpymrjsqkitonmikee.streamlit.app
+
+### Customer Segmentation - Marketing Campaign Dashboard
